@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Tech Blog"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "Deku 的花园广场"
+  text: "见山是山，见海是海，见花便是花"
+  tagline: "但将行好事，莫要问前程"
   actions:
     - theme: brand
       text: Markdown Examples
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
